@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syou551&layout=compact&theme=vue)
 
+Hi! My name is syou. I'm Undergraduate Student in Kyoto Institute of Technology. 
+
+I mainly develop web application.
+
 
 <!--
 **syou551/syou551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
