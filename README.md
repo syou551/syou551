@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/syou551/github-profile-trophy)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syou551&count_private=true&show_icons=true&theme=vue)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syou551&layout=compact&theme=vue)
