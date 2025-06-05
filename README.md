@@ -1,12 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=syou551)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syou551&count_private=true&show_icons=true&theme=vue)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syou551&layout=compact&theme=vue)
 
 Hi! My name is syou. I'm Undergraduate Student in Kyoto Institute of Technology. 
 
-I mainly develop web application.
+I mainly develop web application and management server in my home.
 
 
 <!--
